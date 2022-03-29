@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'apisilvio'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1079A55790B747379F4284BCB0BE661F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3B76B95034094236A98A26CA68F1141D }}
           package: .
